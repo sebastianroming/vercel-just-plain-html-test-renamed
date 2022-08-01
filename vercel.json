@@ -1,10 +1,11 @@
 {
   "headers": [
     {
-      "source": "/:path*", 
+      "source": "/*", 
       "headers": [
         { 
-          "key": "access-control-allow-origin", "value": "" 
+          "key": "access-control-allow-origin", 
+          "value": "" 
         }
       ]
     }
