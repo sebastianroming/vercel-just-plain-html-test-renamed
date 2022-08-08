@@ -1,3 +1,3 @@
 {
-  "headers": [{ "source": "/:path*", "headers": [{ "key": "access-control-allow-origin", "value": "https://foobar.com" }] }]
+  "headers": [{ "source": "/:path*", "headers": [{ "key": "access-control-allow-origin", "value": "cannot.remove.this.header.on.vercel.so.invalid" }] }]
 }
